@@ -1,1 +1,1 @@
-# Machine-learning-project-churn-prediction
+# Machine-learning-project-churn-predictions
