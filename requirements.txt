@@ -4,5 +4,6 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
-
+tensorflow
 scikeras
+
